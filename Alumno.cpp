@@ -2,7 +2,7 @@
 
 Alumno::Alumno(){
     nombre="Sin nombre";
-    matricula="Sin Matricula";
+    matricula="Sin matricula";
     calificacion=0;
 }
 Alumno::Alumno(string nombre, string matricula, int calificacion){
